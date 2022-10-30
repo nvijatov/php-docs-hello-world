@@ -1,3 +1,3 @@
 <?php
-    echo 'Your IP address is: '.$_SERVER['REMOTE_ADDR'];
+    echo 'Hello World of Azure';
 ?>
