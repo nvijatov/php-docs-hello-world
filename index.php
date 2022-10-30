@@ -1,3 +1,3 @@
 <?php
-    echo 'Hello World of Azure';
+    echo "Hello World of Azure";
 ?>
